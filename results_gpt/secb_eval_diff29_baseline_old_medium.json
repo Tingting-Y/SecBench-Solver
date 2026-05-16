@@ -1,0 +1,176 @@
+[
+  {
+    "instance_id": "gpac.cve-2021-32437",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2021-32439",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2021-32440",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2022-29537",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-0819",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-2840",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-42298",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-46001",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-46928",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-4754",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-4755",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2023-4758",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2024-50664",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "gpac.cve-2024-50665",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "jq.cve-2023-50246",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libheif.cve-2023-49460",
+    "old_success": false,
+    "old_reason": "TENTATIVE: Run PoC; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2021-28236",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2021-28237",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2021-42585",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2021-42586",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2022-33034",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "libredwg.cve-2022-45332",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "md4c.cve-2020-26148",
+    "old_success": false,
+    "old_reason": "TENTATIVE: Run PoC; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "md4c.cve-2021-30027",
+    "old_success": false,
+    "old_reason": "TENTATIVE: Run PoC; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "njs.cve-2022-34029",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Git apply; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "upx.cve-2017-15056",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "upx.cve-2023-23457",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "wabt.cve-2022-43282",
+    "old_success": false,
+    "old_reason": "FAIL_STEP: Compile; exit code=1",
+    "old_exit_code": 1
+  },
+  {
+    "instance_id": "yara.cve-2017-5924",
+    "old_success": false,
+    "old_reason": "TENTATIVE: Run PoC; exit code=1",
+    "old_exit_code": 1
+  }
+]
